@@ -1,7 +1,11 @@
 {
   "name": "ol3",
   "description": "OpenLayers 3 bower repository for AVW",
-  "main": "dist/avw-ol.js",
+  "main": [
+    "build/avw-ol.js",
+    "build/avw-ol.js.map",
+    "css/ol.css"
+  ],
   "authors": [
     "Yashar Moradi <yashar.moradi@gaf.de>"
   ],
@@ -18,9 +22,6 @@
   "private": true,
   "ignore": [
     "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
+    "**/*.*"
   ]
 }
