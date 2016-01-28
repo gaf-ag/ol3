@@ -4,7 +4,7 @@
   "main": [
     "build/avw-ol.js",
     "build/avw-ol.js.map",
-    "css/ol.css"
+    "build/ol.css"
   ],
   "authors": [
     "Yashar Moradi <yashar.moradi@gaf.de>"
@@ -21,7 +21,10 @@
   ],
   "private": true,
   "ignore": [
-    "**/.*",
-    "**/*.*"
+    "*",
+    "!build/",
+    "!build/avw-ol.js",
+    "!build/avw-ol.js.map",
+    "!build/ol.css"
   ]
 }
