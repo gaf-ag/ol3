@@ -2,3 +2,7 @@
 /node_modules/
 /dist/
 /coverage/
+# avw build
+!/build/avw-ol.js
+!build/avw-ol.js.map
+!build/ol.css
