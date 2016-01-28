@@ -1,0 +1,26 @@
+{
+  "name": "ol3",
+  "description": "OpenLayers 3 bower repository for AVW",
+  "main": "dist/avw-ol.js",
+  "authors": [
+    "Yashar Moradi <yashar.moradi@gaf.de>"
+  ],
+  "license": "BSD-2-Clause",
+  "keywords": [
+    "map",
+    "mapping",
+    "ol3"
+  ],
+  "homepage": "https://github.com/gaf-ag/ol3",
+  "moduleType": [
+    "globals"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
