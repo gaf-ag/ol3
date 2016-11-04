@@ -30,6 +30,7 @@
     "ol.interaction.Draw",
     "ol.interaction.Modify",
     "ol.interaction.DragZoom",
+    "ol.inherits",
     "ol.format.GeoJSON",
     "ol.format.GeoJSON#*",
     "ol.proj.*",
