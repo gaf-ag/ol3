@@ -29,6 +29,7 @@
     "ol.interaction.defaults",
     "ol.interaction.Draw",
     "ol.interaction.Modify",
+    "ol.interaction.DragZoom",
     "ol.format.GeoJSON",
     "ol.format.GeoJSON#*",
     "ol.proj.*",
